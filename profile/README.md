@@ -11,6 +11,18 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+```txt
+                                                                     __       ___             
+        __                                                          /\ \     /\_ \            
+ _____ /\_\     __      __    ___     ___              ____     __  \ \ \____\//\ \      __   
+/\ '__`\/\ \  /'_ `\  /'__`\ / __`\ /' _ `\           /',__\  /'__`\ \ \ '__`\ \ \ \   /'__`\ 
+\ \ \L\ \ \ \/\ \L\ \/\  __//\ \L\ \/\ \/\ \         /\__, `\/\ \L\.\_\ \ \L\ \ \_\ \_/\  __/ 
+ \ \ ,__/\ \_\ \____ \ \____\ \____/\ \_\ \_\        \/\____/\ \__/.\_\\ \_,__/ /\____\ \____\
+  \ \ \/  \/_/\/___L\ \/____/\/___/  \/_/\/_/         \/___/  \/__/\/_/ \/___/  \/____/\/____/
+   \ \_\        /\____/                                                                       
+    \/_/        \_/__/                                                                        
+```
+
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
 ## 🙋‍♀️ About pigeon-sable
